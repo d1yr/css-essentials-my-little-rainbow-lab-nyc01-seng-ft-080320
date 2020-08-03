@@ -25,7 +25,7 @@ div {
   border-top-color: #00f;
 }
 #indigo { /* this selects any elements with the red id */
-  border-top-color: #f00;
+  border-top-color: #330099;
 }
 #violet { /* this selects any elements with the red id */
   border-top-color: #f00;
